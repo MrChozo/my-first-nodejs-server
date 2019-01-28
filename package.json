@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "My first node server on an AWS EC2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Testing 123.');"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
